@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sub_1789736096232_tmajs",
+    "createdAt": "2026-09-18T12:54:56.232Z",
+    "clientName": "كابتن تجريبي",
+    "clientPhone": "+201012345678",
+    "clientEmail": "",
+    "clientGoal": "خسارة دهون وتنشيف",
+    "status": "new",
+    "answers": {
+      "full_name": "كابتن تجريبي",
+      "phone_number": "+201012345678",
+      "age": 26,
+      "current_weight": 80,
+      "height": 178,
+      "primary_goal": "خسارة دهون وتنشيف",
+      "workout_place": "في الجيم"
+    },
+    "emailSent": true,
+    "emailStatus": "تم تسجيل البيانات وحفظها بنجاح، وتجهيز الإشعار لـ kemofitt@gmail.com."
+  }
+]

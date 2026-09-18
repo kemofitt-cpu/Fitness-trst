@@ -1,0 +1,6 @@
+{
+  "name": "Kemo Fitt Coaching Intake",
+  "description": "استمارة اشتراك وتدريب المتدربين لكابتن كريم مع لوحة تعديل الأسئلة وإرسال الردود إلى kemofitt@gmail.com",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
